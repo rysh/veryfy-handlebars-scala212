@@ -1,0 +1,1 @@
+# veryfy-handlebars-scala212
